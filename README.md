@@ -1,14 +1,12 @@
 ## SCOTSHELL - A Better Alternative
 ![github-small](https://github.com/CCSDylan/scotshell/blob/master/media/csscot.JPG)
 
-#### TITLE: ASSIGNMENT 1-4
 #### DATE: 12/13/18
-#### QUARTER: FALL 2018
 #### YEAR: 2018
 #### AUTHORS: Dylan Han, Alexander Yee
 
 # INTRODUCTION
-#### Scottshell is the project of Dylan Han and Alexander Yee for CS100 Fall 2018. Our primary objective is to make and develop a basic Linux shell that takes in a built-in commands along with some extras such as AND, OR, SEMICOLON, TESTCOMMANDS, and INPUT/OUTPUT REDIRECT/APPEND. Using a composite pattern approach, we will create an inheritance hierarchy that will allow our composite classes functionality to be inherited in this manner.
+#### Scottshell is the project of Dylan Han and Alexander Yee. Our primary objective is to make and develop a basic Linux shell that takes in a built-in commands along with some extras such as AND, OR, SEMICOLON, TESTCOMMANDS, and INPUT/OUTPUT REDIRECT/APPEND. Using a composite pattern approach, we will create an inheritance hierarchy that will allow our composite classes functionality to be inherited in this manner.
 
 # DIAGRAM
 ![github-small](https://github.com/CCSDylan/scotshell/blob/master/media/UMLDIAGRAM.JPG)
@@ -67,16 +65,14 @@ There is no doubt that one of the bigger problems that we will encounter while d
 ![github-small](https://github.com/cs100/assignment-1-coffeemanbriancrites/blob/master/media/DistractedCrites.jpg)
 
 # RUN COMMAND
-#### git clone https://github.com/cs100/assignment-1-coffeemanbriancrites
+#### git clone https://github.com/CCSDylan/scotshell
 #### ls -a
-#### cd assignment-1-coffeemanbriancrites
+#### cd scotshell/
 #### cd src
 #### g++ -std=c++11 Shell.cpp 
 #### ./a.out
-# For TAs
-#### git clone https://github.com/cs100/assignment-1-coffeemanbriancrites
-#### cd assignment-1-coffeemanbriancrites
-#### git checkout tags/hw4
+# For GOOGLE TESTs
+#### git clone https://github.com/CCSDylan/scotshell
 #### git submodule init
 #### git submodule update
 #### cmake3 .
