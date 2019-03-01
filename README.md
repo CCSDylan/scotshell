@@ -1,5 +1,5 @@
 ## SCOTSHELL - A Better Alternative
-![github-small](https://github.com/cs100/assignment-1-coffeemanbriancrites/blob/master/media/csscot.JPG)
+![github-small](https://github.com/CCSDylan/scotshell/blob/master/media/csscot.JPG)
 
 #### TITLE: ASSIGNMENT 1-4
 #### DATE: 12/13/18
