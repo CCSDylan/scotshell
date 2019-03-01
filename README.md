@@ -11,7 +11,7 @@
 #### Scottshell is the project of Dylan Han and Alexander Yee for CS100 Fall 2018. Our primary objective is to make and develop a basic Linux shell that takes in a built-in commands along with some extras such as AND, OR, SEMICOLON, TESTCOMMANDS, and INPUT/OUTPUT REDIRECT/APPEND. Using a composite pattern approach, we will create an inheritance hierarchy that will allow our composite classes functionality to be inherited in this manner.
 
 # DIAGRAM
-![github-small](https://github.com/cs100/assignment-1-coffeemanbriancrites/blob/master/media/UMLDIAGRAM.JPG)
+![github-small](https://github.com/CCSDylan/scotshell/blob/master/media/UMLDIAGRAM.JPG)
 *Quick Note: This is going to be our basic diagram based off of the composite pattern. We intend on extending this
 # CLASSES/CLASS GROUPS
 
